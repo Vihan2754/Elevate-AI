@@ -10,7 +10,7 @@ import { Toaster } from "sonner";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-  icons: "/ai.png",
+  icons: "/ai1.png",
   title: "ElevateAI - Success Through AI",
   description: "",
 };
