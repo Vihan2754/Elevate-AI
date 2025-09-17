@@ -1,7 +1,7 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 
-# HorizonAI-Success Through AI
+# ElevateAI-Success Through AI
 I have developed an AI-powered career advancement application designed to support you at every stage of your professional journey.
 Empower your career with intelligent tools designed for success.
 
@@ -36,7 +36,7 @@ Empower your career with intelligent tools designed for success.
 Deployed this project on vercel
 
 ```bash
-  https://horizon-ai-ten.vercel.app
+  https://elevate-ai-etjv.vercel.app
 ```
 
 
@@ -60,6 +60,6 @@ You can start editing the page by modifying app/page.js. The page auto-updates a
 
 ## Feedback
 
-If you have any feedback, please reach out to me at - pranjulmani010@gmail.com
+If you have any feedback, please reach out to me at - vinaychauhansdn@gmail.com
 
 
